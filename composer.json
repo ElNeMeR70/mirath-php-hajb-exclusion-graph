@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/mirath-php-hajb-exclusion-graph",
+  "description": "Hajb Hirman (Total Exclusion) & Hajb Nuqsan Graph Eliminator (مصفوفة الحجب حرماناً ونقصاناً بين الورثة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
